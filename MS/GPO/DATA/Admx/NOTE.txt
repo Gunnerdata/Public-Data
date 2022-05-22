@@ -1,0 +1,9 @@
+
+MS Security Baseline
+	https://www.microsoft.com/en-us/download/details.aspx?id=55319
+LAPS
+	https://www.microsoft.com/en-us/download/details.aspx?id=46899
+Adobe
+	https://www.adobe.com/devnet-docs/acrobatetk/tools/DesktopDeployment/gpo.html
+Mozilla Firefox
+	https://support.mozilla.org/en-US/kb/customizing-firefox-using-group-policy-windows
